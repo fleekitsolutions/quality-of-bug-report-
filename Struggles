@@ -1,0 +1,35 @@
+Being a top software testing company, we understand that, in today’s competitive world we are always running out of time, a good quality bug report from the QA team can reduce the iterations between developer and QA, and help improving the productivity of the whole team. As a result, it will reduce overall project cost and speed up the time to market.
+
+From a QA point of view, sometime the most frustrating situation is: when your bug is “rejected” by the developer, or marked as “not reproducible”, or marked as “incomplete”, or marked as “not an issue”, or marked as “working as expected”. Don’t get upset, better to spend time on identifying the problem in the bug report and look for the improvements.
+
+Common issues with bug report
+There are a few common issues which may provide an opportunity for a developer to reject your bug report. Sit back and check if you made any of these mistakes?
+
+1. Incomplete steps to reproduce in your bug report
+2. Miss-leading title of your bug report
+3. Lack of details about environment like device, browser version and operating system details
+4. Missing error logs, stack trace details
+5. Background on the test scenario and missing actual vs expected behavior
+6. Missing test data, login credentials etc.
+7. The incorrect priority of the bug report
+8. Missing reference of the requirement in your expected behavior
+9. The incorrect configuration or corrupted test data in your test environment
+10. Test environment doesn’t correct build or code branch deployed
+
+How can you improve the quality of bug report
+Quality bug should consist of all details which can help developer to quickly understand and debug the scenario. The required details in a bug report depend upon the nature of the bug, and QA should be smart enough to identify such details and attached the bug report. Here are some tips to make your bug report as a quality bug report:
+
+1. Make sure your bug report title is straight enough to explain the exact problem to developers and other project stakeholders
+2. Steps to reproduce must be clear and must be leading developer to exact scenario. Depending upon the complexity, screencast of the scenario are very helpful
+3. In some cases, test data is very helpful. For example, some time bug is specific to user persona so good to provide the test user credentials along with your bug report
+4. Always mention the test environment details where the bug was found. In many cases, bugs are specific to an environment only. For example, incorrect or missing configuration, corrupted data on the environment.
+5. Developer loves to see the logs details because it saves a lot of time in debugging and troubleshooting. So always provide error logs, console logs or any other available stack trace.
+6. Make sure you are testing for the correct build or code branch, also you have done all required configurations and executed required database script as per instructions. It is always recommended to double check such things with the development team.
+7. Providing a correct priority to your defect report always helpful for the development team to fix the high priority bugs and make a successful release quickly.
+
+Challenge in providing quality bug report
+Due to security reason, sometime clients are not open to provide access to the database and log files. In such scenario you can discuss with the client and explain the importance of access to the database and log files. You can also ask for the read-only access to the database at least. Don’t let lack of access as an excuse because If you don’t ask then it is always NO.
+
+Small improvements in your QA process can make a big difference and happy clients.
+
+Tags: automation testing, best QA services, independent software testing services, QA best practices, QA testing services, Quality bugs, software testing, software testing services, test, test cases, testing, testing tools
